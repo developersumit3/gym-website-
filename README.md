@@ -1,5 +1,19 @@
-# Welcome to GitHub Desktop!
+# Modern Gym Website
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+A responsive and modern gym website built using HTML, CSS, and JavaScript.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## 🚀 Live Demo
+[https://your-vercel-link.vercel.app](https://khalifa-gym.vercel.app)
+
+## ✨ Features
+- Responsive Design
+- Smooth UI
+- Mobile Friendly
+
+## 🛠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## 👨‍💻 Author
+Sumit Kumar Gupta
